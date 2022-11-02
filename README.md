@@ -1,3 +1,10 @@
+Built with vanilla JS, HTML, CSS. TicTacToe tech challenge, rules below.
+
+LIVE DEPLOY : https://kt47509.github.io/vanilla-js-tictactoe/
+
+
+
+
 # tic-tac-toe
 
 1. The game must include a grid that is 3x3
